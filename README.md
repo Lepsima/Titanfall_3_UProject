@@ -1,3 +1,5 @@
 # Titanfall_3_UProject
 Project made in Unity
-v0.2 Titan Update
+
+Current version : v0.7
+Working multiplayer, no singleplayer
